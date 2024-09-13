@@ -7,15 +7,6 @@ body {
   font-family: Sans-Serif, Serif, Arial;
 }
 
-#navbar {
-  display: flex;
-  background-color: #2e5266ff;
-  height: 8vh;
-  width: 100%;
-  font-size: 15px;
-  color: white;
-}
-
 li {
   list-style: none;
   margin-left: 2vw;
